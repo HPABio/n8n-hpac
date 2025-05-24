@@ -70,3 +70,6 @@ services:
     command: worker
     depends_on:
       - n8n
+networks:
+  coolify-net:
+    external: true
