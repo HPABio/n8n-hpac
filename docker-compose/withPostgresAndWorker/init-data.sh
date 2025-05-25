@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "SETUP INFO: Running init-data.sh script for Postgres database setup."
+echo "SETUP INFO: Running init-data.sh script for Postgres database setup.";
 
 set -e;
 
